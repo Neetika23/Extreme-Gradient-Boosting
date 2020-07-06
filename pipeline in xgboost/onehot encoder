@@ -15,3 +15,6 @@ print(df.shape)
 
 # Print the shape of the transformed array
 print(df_encoded.shape)
+
+
+As you can see, after one hot encoding, which creates binary variables out of the categorical variables, there are now 62 columns. from 21 to 62
